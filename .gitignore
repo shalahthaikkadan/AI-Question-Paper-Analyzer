@@ -1,0 +1,41 @@
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.*
+
+# Uploaded PDF files
+data/uploads/*
+!data/uploads/.gitkeep
+
+# Generated output
+output/*
+!output/.gitkeep
+
+# Database
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+
+# Generated CSV
+*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
