@@ -1,0 +1,81 @@
+﻿part,module,question_number,subpart,alternative,text,source_file
+B,I,11,a,1,Summarize the challenges of cloud computing. (5),2022 Dec. CST423-A.pdf
+B,I,11,b,1,Outline NIST Cloud computing model with suitable diagrams. (9),2022 Dec. CST423-A.pdf
+B,I,12,a,2,Explain the basic components of an IaaS-based solution for cloud computing. (5),2022 Dec. CST423-A.pdf
+B,I,12,b,2,Discuss the hybrid cloud architecture with suitable example. (9) B Pages: 2 APJ ABDUL KALAM TECHNOLOGICAL UNIVERSITY Seventh Semester B.Tech Degree Examination December 2022 (2019 scheme) Reg No.:_______________ Name:__________________________ A 1000CST423122201,2022 Dec. CST423-A.pdf
+B,II,13,a,1,Differentiate between conventional computing system and virtualized computing system. (6),2022 Dec. CST423-A.pdf
+B,II,13,b,1,Summarize the various advantages of virtualization. (8),2022 Dec. CST423-A.pdf
+B,II,14,a,2,Differentiate between process VM and system VM. (6),2022 Dec. CST423-A.pdf
+B,II,14,b,2,Explain the various Hypervisor-Based virtualization approaches with suitable examples. (8),2022 Dec. CST423-A.pdf
+B,III,15,a,1,Develop a Hadoop MapReduce program that counts the number of occurrences of each word in a file. (6),2022 Dec. CST423-A.pdf
+B,III,15,b,1,Differentiate between the static approach and dynamic approach of resource provisioning in Virtual Machines. (8),2022 Dec. CST423-A.pdf
+B,III,16,a,2,Outline the common characteristics of multitenant applications. (6),2022 Dec. CST423-A.pdf
+B,III,16,b,2,Examine the major tasks of the MapReduce framework? Explain the logical data flow of MapReduce function using a suitable example. (8),2022 Dec. CST423-A.pdf
+B,IV,17,a,1,Explain the different security risks posed by shared images. (6),2022 Dec. CST423-A.pdf
+B,IV,17,b,1,Summarize common threats and vulnerabilities in cloud-based environments with suitable examples. (8),2022 Dec. CST423-A.pdf
+B,IV,18,a,2,Explain the different methods for providing Virtual Machine Security. (6),2022 Dec. CST423-A.pdf
+B,IV,18,b,2,Illustrate the role of a threat agent and the risks caused by threat agents. (8),2022 Dec. CST423-A.pdf
+B,V,19,a,1,Distinguish between Amazon S3 and Amazon EBS. (6),2022 Dec. CST423-A.pdf
+B,V,19,b,1,Explain the four services offered by Azure storage. (8),2022 Dec. CST423-A.pdf
+B,V,20,a,2,Explain the two popular services offered by Google’s Infrastructure-as-a-Service (IaaS) . (6),2022 Dec. CST423-A.pdf
+B,V,20,b,2,Explain Amazon EC2 and its instance types. (8) **** A,2022 Dec. CST423-A.pdf
+B,I,11,a,1,Explain NIST reference cloud model with neat diagram. (8),2023 Dec. CST423-C.pdf
+B,I,11,b,1,How IaaS provides cloud consumers with a high level of control and responsibility for its utilization? (6),2023 Dec. CST423-C.pdf
+B,I,12,a,2,List the benefits and challenges of cloud computing. (6),2023 Dec. CST423-C.pdf
+B,I,12,b,2,Classify various types of cloud. (8),2023 Dec. CST423-C.pdf
+B,II,13,a,1,Compare non virtual and virtual machine environments. (6),2023 Dec. CST423-C.pdf
+B,II,13,b,1,Explain Para-virtualization with a neat diagram. (8),2023 Dec. CST423-C.pdf
+B,II,14,a,2,Explain storage virtualization with a diagram. (6),2023 Dec. CST423-C.pdf
+B,II,14,b,2,What is Xen? Discuss its elements for virtualization. (8),2023 Dec. CST423-C.pdf
+B,III,15,a,1,List the data centre technology components. Explain any two. (6),2023 Dec. CST423-C.pdf
+B,III,15,b,1,Compare static and dynamic resource provisioning in cloud computing. Explain each with example. (8),2023 Dec. CST423-C.pdf
+B,III,16,a,2,Draw the Eucalyptus architecture and explain its key functionalities (6),2023 Dec. CST423-C.pdf
+B,III,16,b,2,Explain components of MapReduce architecture and discuss its advantages with an example. (8),2023 Dec. CST423-C.pdf
+B,IV,17,a,1,"Write different types of internal security breaches in cloud computing. Also, explain the steps to reduce cloud security breaches. (6)",2023 Dec. CST423-C.pdf
+B,IV,17,b,1,Explain operating system security in cloud computing. (8),2023 Dec. CST423-C.pdf
+B,IV,18,a,2,What do you mean by risks management? Explain different types of ongoing risks management process. (8),2023 Dec. CST423-C.pdf
+B,IV,18,b,2,Discuss the security risks posed by shared images with suitable example. (6),2023 Dec. CST423-C.pdf
+B,V,19,a,1,What does Elastic Compute Cloud (EC2)? Explain its features. (8),2023 Dec. CST423-C.pdf
+B,V,19,b,1,Explain the architecture of Amazon S3. (6),2023 Dec. CST423-C.pdf
+B,V,20,a,2,Discuss the core components of Google App Engine. (8),2023 Dec. CST423-C.pdf
+B,V,20,b,2,Write notes on Goole Docs and Google Drive. (6) **** A,2023 Dec. CST423-C.pdf
+B,I,11,a,1,Compare Traditional computing and cloud computing. (4),2024 May CST423-D.pdf
+B,I,11,b,1,Discuss the cloud computing reference model. (10),2024 May CST423-D.pdf
+B,I,12,a,2,Explain Platform as a Service (PaaS) in terms of ‘ready to use’ environment. (6),2024 May CST423-D.pdf
+B,I,12,b,2,Discuss the various types of clouds. (8),2024 May CST423-D.pdf
+B,II,13,a,1,Compare virtualized and non-virtualized machine environments. (6),2024 May CST423-D.pdf
+B,II,13,b,1,Explain full virtualization with a neat diagram. (8),2024 May CST423-D.pdf
+B,II,14,a,2,Explain storage virtualization with a neat sketch. (8),2024 May CST423-D.pdf
+B,II,14,b,2,What is VMware? Compare XenServer and VMware (6),2024 May CST423-D.pdf
+B,III,15,a,1,Explain broad band networks and internet architecture. (8),2024 May CST423-D.pdf
+B,III,15,b,1,List the data centre technology components. Explain any two. (6),2024 May CST423-D.pdf
+B,III,16,a,2,Draw the architecture of OpenStack cloud provider. List its main features. (8),2024 May CST423-D.pdf
+B,III,16,b,2,Discuss Hadoop Distributed File System and its features. (6),2024 May CST423-D.pdf
+B,IV,17,a,1,Why is it harder to establish security in cloud? (6),2024 May CST423-D.pdf
+B,IV,17,b,1,Discuss the security risks posed by shared images with suitable example. (8),2024 May CST423-D.pdf
+B,IV,18,a,2,What do you mean by threat agents? Explain different types of threat agents. (8),2024 May CST423-D.pdf
+B,IV,18,b,2,Explain operating system security in cloud computing. (6),2024 May CST423-D.pdf
+B,V,19,a,1,What does Elastic Compute Cloud (EC2)? Explain its features. (8),2024 May CST423-D.pdf
+B,V,19,b,1,Write notes on Amazon Elastic Block Storage. (6),2024 May CST423-D.pdf
+B,V,20,a,2,Discuss Google data base services. (6),2024 May CST423-D.pdf
+B,V,20,b,2,Draw the architecture of Windows Azure and Explain its components. (8) **** A,2024 May CST423-D.pdf
+B,I,11,a,1,"With the help of a diagram, explain NIST Cloud Computing Reference Architecture. (8)",CST423-QP.pdf
+B,I,11,b,1,Briefly explain the different types of cloud deployment models (6),CST423-QP.pdf
+B,I,12,a,2,"Compare and Contrast Grid Computing, Distributed Computing, and Cloud Computing (6)",CST423-QP.pdf
+B,I,12,b,2,"Define cloud services. Explain the three main cloud service models – IaaS, PaaS, and SaaS – with one example each (8)",CST423-QP.pdf
+B,II,13,a,1,Explain storage virtualization with a neat sketch (8),CST423-QP.pdf
+B,II,13,b,1,"Briefly explain emulation, interpretation, and binary translation. (6)",CST423-QP.pdf
+B,II,14,a,2,Represent a model of Operating system level virtualization approach. Also examine the advantages and limitations. (7),CST423-QP.pdf
+B,II,14,b,2,Explain the pros and cons of virtualization. Differentiate Full Virtualization and Para-Virtualization. (7),CST423-QP.pdf
+B,III,15,a,1,Illustrate the MapReduce algorithm with a diagram and explain how it can be used to count the occurrences of each word in a file (8),CST423-QP.pdf
+B,III,15,b,1,Explain the role of Broadband Networks / Internet and Web Technology in enabling cloud computing. (6),CST423-QP.pdf
+B,III,16,a,2,Explain the technologies used in data centres highlighting their role in supporting cloud services. (6),CST423-QP.pdf
+B,III,16,b,2,Differentiate between the static approach and dynamic approach of resource provisioning in Virtual Machines. (8),CST423-QP.pdf
+B,IV,17,a,1,Illustrate the role of a threat agent and the risks caused by threat agents. (7),CST423-QP.pdf
+B,IV,17,b,1,Explain the key functions and benefits of Identity and Access Management in Cloud Computing (7),CST423-QP.pdf
+B,IV,18,a,2,Explain in detail about security threat posed by shared images. (7),CST423-QP.pdf
+B,IV,18,b,2,Discuss how virtual machine security can be achieved in cloud. (7),CST423-QP.pdf
+B,V,19,a,1,Explain Amazon Web Services offerings. (7),CST423-QP.pdf
+B,V,19,b,1,Explain the four services offered by Azure storage. (7),CST423-QP.pdf
+B,V,20,a,2,Explain Microsoft Azure Cloud Computing Platform Architecture with neat diagram. (7),CST423-QP.pdf
+B,V,20,b,2,Describe the core components of Google App Engine. (7) ****,CST423-QP.pdf
