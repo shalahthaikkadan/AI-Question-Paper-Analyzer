@@ -1,3 +1,6 @@
 streamlit
-pymupdf
 pandas
+PyMuPDF
+sentence-transformers
+scikit-learn
+networkx

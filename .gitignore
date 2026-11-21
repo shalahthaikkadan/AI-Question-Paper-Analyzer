@@ -1,41 +1,55 @@
 
-# Virtual Environment
+# Python virtual environments
 venv/
 env/
 .venv/
 
-# Python cache
+# Python cache files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Environment variables
+# Environment variables and secrets
 .env
 .env.*
+.streamlit/secrets.toml
 
-# Uploaded PDF files
+# VS Code and IDE
+.vscode/
+.idea/
+
+# Uploaded question papers
 data/uploads/*
 !data/uploads/.gitkeep
 
-# Generated output
+# Generated analysis results
 output/*
 !output/.gitkeep
 
-# Database
+# Database files
 database/*.db
 database/*.sqlite
 database/*.sqlite3
 
-# Generated CSV
+# Generated CSV files
 *.csv
 
-# IDE
-.vscode/
-.idea/
+# Streamlit cache
+.streamlit/cache/
 
-# OS files
+# Model cache
+.cache/
+models/
+
+# Operating system files
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Streamlit
-.streamlit/secrets.toml
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
